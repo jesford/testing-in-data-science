@@ -28,7 +28,7 @@ def backwards_allcaps(text):
     {'input': 'python', 'output': 'NOHTYP'},
     {'input': 'meetup', 'output': 'PUTEEM'},
     {'input': 'salt lake', 'output': 'EKALTLAS'},
-    {'input': 'github.com is rad', 'output': 'DARSIMOCBUHTIG'}])
+    {'input': 'github.com is rad!', 'output': 'DARSIMOCBUHTIG'}])
 def test_data(request):
     return request.param
 
