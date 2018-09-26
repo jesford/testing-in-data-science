@@ -1,3 +1,5 @@
-# The Role of Testing in Data Science Tutorial
+# Testing in Data Science Tutorial
 
-This repo includes some sample code and tests for running a hands-on intro to test-driven-development with PyTest tutorial, and some notebook-based slides for discussing my perspectives on the when, why, and how of testing your data science code.
+This repo includes materials for a presentation and hands-on-tutorial introducing Python testing for data science using the [pytest](https://docs.pytest.org/en/latest/) library. 
+
+The `intro-to-testing-presentation.ipynb` is intended to be rendered as slides, and the `step-by-step-demo-walkthrough.ipynb` is the instructor's guide to leading the attendees in developing the template file `demo_tdd_intro.py` to the completed version `complete-demo_tdd_intro.py`.
