@@ -2,3 +2,5 @@
 *.html
 .cache/
 __pycache__/
+.hypothesis/
+pytest.ini
