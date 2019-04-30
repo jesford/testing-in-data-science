@@ -1,6 +1,6 @@
 /*Some css fixes to use night theme with IPython slides*/
 body {
-background-color: #282828; /*#111111*/
+background-color: #282828;  /*#707070*/
 color: white;
 }
 .reveal p {
@@ -25,5 +25,5 @@ div.output_stderr {
 background: #282828;  /*#F00;*/
 }
 .reveal table th, .reveal table td {
-color: white;
+color: #828282;  /*color of text in dataframes*/
 }
